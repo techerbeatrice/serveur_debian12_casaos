@@ -61,7 +61,7 @@ télécharger CasaOS en ligne de commande :
 ```
 curl -fsSL https://get.casaos.io | sudo bash”
 ``` 
-<img width="1050" height="850" alt="image" src="https://github.com/user-attachments/assets/c7d970fa-261f-4404-9ea8-d62d5d8683cf" />
+<img width="1100" height="920" alt="image" src="https://github.com/user-attachments/assets/6acfbdb3-a3c4-41ee-8908-fac3453d7d96" />
 
 _____
 
@@ -70,3 +70,6 @@ _____
 
 <img width="1021" height="852" alt="image" src="https://github.com/user-attachments/assets/b27bc326-7a18-474a-b8b4-6f3bb0316ae3" />
 
+# D) Télécharger Nextcloud dans l'App Store de CasaOS :  
+
+<img width="1014" height="857" alt="image" src="https://github.com/user-attachments/assets/77cc6433-93c0-4e7b-a7f8-7d88c8a47639" />
