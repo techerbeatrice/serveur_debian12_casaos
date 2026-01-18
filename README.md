@@ -62,3 +62,11 @@ télécharger CasaOS en ligne de commande :
 curl -fsSL https://get.casaos.io | sudo bash”
 ``` 
 <img width="1050" height="850" alt="image" src="https://github.com/user-attachments/assets/c7d970fa-261f-4404-9ea8-d62d5d8683cf" />
+
+_____
+
+# D) Télécharger des applications dans l'App Store de CasaOS :  
+
+
+<img width="1021" height="852" alt="image" src="https://github.com/user-attachments/assets/b27bc326-7a18-474a-b8b4-6f3bb0316ae3" />
+
