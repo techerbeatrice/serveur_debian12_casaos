@@ -50,12 +50,70 @@ test après reboot en laissant le serveur 1–2 heures sans y toucher, puis essa
 ```
 ssh user@ip_du_serveur   
 ```
-si ça répond → victoire :
+si ça répond → victoire    
 
 _____
 
+# C) Sécuriser le serveur :   
 
-# C) Installation de CasaOS (gestionnaire de serveur) :   
+dans le terminal : 
+
+```
+# Mises à jour automatiques de sécurité
+sudo apt install unattended-upgrades apt-listchanges
+sudo dpkg-reconfigure -plow unattended-upgrades
+
+# Firewall strict (ufw)
+sudo apt install ufw
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+sudo ufw allow 22/tcp  # SSH - changez le port !
+sudo ufw allow 80/tcp
+sudo ufw allow 443/tcp
+sudo ufw enable
+
+# Fail2ban contre bruteforce
+sudo apt install fail2ban
+sudo systemctl enable fail2ban
+```
+
+SSH : Changez le port (réduit les scans), désactivez root, utilisez clés ED25519 uniquement :  
+
+```
+sudo nano /etc/ssh/sshd_config
+Port 2222
+PermitRootLogin no
+PasswordAuthentication no
+PubkeyAuthentication yes
+```
+
+Génération de la paire de clés (sur votre ordinateur client) :  
+
+```  
+# Option recommandée : ED25519 (rapide et sécurisé)
+ssh-keygen -t ed25519 -a 100 -C "votre-email@exemple.com"
+
+# Alternative si le serveur est ancien : RSA 4096 bits
+ssh-keygen -t rsa -b 4096 -C "votre-email@exemple.com"
+```   
+Transfert de la clé publique vers le serveur (sur votre ordinateur client) :   
+
+```  
+# Si vous avez changé le port SSH (ex: 2222)
+ssh-copy-id -i ~/.ssh/id_ed25519.pub -p 2222 utilisateur@IP_SERVEUR
+```
+Entrez votre mot de passe actuel une dernière fois. La clé est ajoutée à \~/.ssh/authorized_keys.   
+
+Si ça ne fonctionne pas (si ssh-copy-id indisponible) :    
+
+```   
+# Sur le client
+cat ~/.ssh/id_ed25519.pub | ssh utilisateur@IP_SERVEUR "mkdir -p ~/.ssh && chmod 700 ~/.ssh && cat >> ~/.ssh/authorized_keys && chmod 600 ~/.ssh/authorized_keys"
+```   
+ 
+_____
+
+# D) Installation de CasaOS (gestionnaire de serveur) :   
 
 télécharger CasaOS en ligne de commande :   
 ```
@@ -65,7 +123,7 @@ curl -fsSL https://get.casaos.io | sudo bash”
 
 _____
 
-# D) Télécharger des applications dans l'App Store de CasaOS :  
+# E) Télécharger des applications dans l'App Store de CasaOS :  
 
 
 <img width="1021" height="852" alt="image" src="https://github.com/user-attachments/assets/b27bc326-7a18-474a-b8b4-6f3bb0316ae3" />
@@ -80,7 +138,7 @@ Nextcloud est un logiciel libre de site d'hébergement de fichiers et une platef
 _____
 
 - **Pi-hole dans l'App Store de CasaOS :**
-Pi-hole est un bloqueur de publicité au niveau du réseau[2] qui agit comme un DNS menteur et éventuellement comme un serveur Dynamic Host Configuration Protocol, destiné à être utilisé sur un réseau privé.
+Pi-hole est un bloqueur de publicité au niveau du réseau qui agit comme un DNS menteur et éventuellement comme un serveur Dynamic Host Configuration Protocol, destiné à être utilisé sur un réseau privé.   
 
 <img width="1023" height="866" alt="image" src="https://github.com/user-attachments/assets/ec9c71d2-e7e2-4124-aad3-0146f4a14272" />
 
