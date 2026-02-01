@@ -1,6 +1,22 @@
 # serveur_debian12_casaos
 
 ________________
+# Les étapes    
+
+👉  Transformer un pc debian 12 en serveur     
+👉  Installer CasaOs sur ce serveur        
+👉  Télécharger des applications via CasaOs     
+👉  Nextcloud pour héberger de fichiers et une plateforme de travail collaboratif : installation et paramétrage   
+👉  Pi-hole pour bloquer les pubs : installation et paramétrage   
+👉  Immich pour gérer et sauvegarder des photos en auto-hébergement : installation et paramétrage    
+👉  Portainer pour créer, modifier, redémarrer, surveiller… des conteneurs Docker : installation et paramétrage   
+👉  Duplicati pour faire des sauvegardes : installation et paramétrage   
+👉  Jellyfin pour lire et partager des fichiers multimédias numériques : installation et paramétrage   
+👉  Nginx Proxy Manager pour créer, gérer des hôtes virtuels, des redirections, des certificats SSL et des règles de sécurité pour leurs serveurs proxys : installation et paramétrage   
+👉  WordPress pour créer et gérer des sites Web : installation et paramétrage   
+👉  WatchTower pour les mises à jour automatiques : installation et paramétrage   
+
+_______
 
 
 # 🔴 Prérequis
@@ -149,7 +165,7 @@ Immich, une alternative gratuite, open-source et auto-hébergé à Google Photos
 
 <img width="1015" height="852" alt="image" src="https://github.com/user-attachments/assets/82c68ce4-a1e6-40b5-9bc5-273137b05c4e" />
 
-🟢 **Immich paramétrage :**  
+🔧 **Immich paramétrage :**  
 
 Dans les paramètres :   
 
@@ -212,7 +228,16 @@ Portainer est un puissant outil de gestion Docker. Dans toute l'interface Web, P
 <img width="958" height="679" alt="image" src="https://github.com/user-attachments/assets/d3059999-d9c3-446d-a046-17acdb8a2304" />
 
 _____
+
 🟢 **Duplicati dans l'App Store de CasaOS :**
 Duplicati est un logiciel de sauvegarde gratuit permettant de faire des sauvegardes.
 
 <img width="967" height="625" alt="image" src="https://github.com/user-attachments/assets/18383bce-bebd-4fd1-ad7d-b56544862e7d" />
+
+_____
+
+🟢 **WordPress dans l'App Store de CasaOS :**
+WordPress est un logiciel de sauvegarde gratuit permettant de créer et gérer différents types de sites Web.
+
+<img width="1283" height="683" alt="image" src="https://github.com/user-attachments/assets/45cec863-b12b-465f-8542-07b1e6634c89" />
+
