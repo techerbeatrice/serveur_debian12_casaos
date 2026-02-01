@@ -181,7 +181,6 @@ Dans les paramètres :
 <img width="628" height="823" alt="image" src="https://github.com/user-attachments/assets/d4038cbf-88cd-4ce6-a31a-95ef6e519e6e" />
 <img width="623" height="824" alt="image" src="https://github.com/user-attachments/assets/82a085cb-14a3-4469-8520-62d4309faa11" />
 
-
 -------------
 
 🔷 Dans l'onglet redis  
@@ -189,7 +188,22 @@ Dans les paramètres :
 <img width="628" height="821" alt="image" src="https://github.com/user-attachments/assets/666e815c-9675-4cee-96e2-d3cc26a14793" />
 <img width="625" height="818" alt="image" src="https://github.com/user-attachments/assets/05020131-839e-48c3-a15f-b65806929441" />
 
+----------
 
+🟦  Enregistrer les paramètres, ouvrir Immich Web, renseigner email + mot de passe             
+
+<img width="843" height="785" alt="image" src="https://github.com/user-attachments/assets/dc08e84a-c18a-4504-a6bd-3c102f5abd12" />
+
+----------
+
+ 🟦  Sur votre mobile, télécharger l'application Immich        
+
+<img width="1020" height="848" alt="image" src="https://github.com/user-attachments/assets/953507a8-dff3-4d69-a1af-7ffa7d60248a" />
+
+-----
+
+ 🟨 et se connecter à l'application mobile avec l'identifiant de votre Immich Web : **http://IP_DU_SERVEUR:2283** + mot de passe    
+ 
 _____
 
 🟢 **Portainer dans l'App Store de CasaOS :**
