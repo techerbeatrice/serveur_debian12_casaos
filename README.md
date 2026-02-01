@@ -149,6 +149,47 @@ Immich, une alternative gratuite, open-source et auto-hébergé à Google Photos
 
 <img width="1015" height="852" alt="image" src="https://github.com/user-attachments/assets/82c68ce4-a1e6-40b5-9bc5-273137b05c4e" />
 
+🟢 **Immich paramétrage :**  
+
+Dans les paramètres :   
+
+<img width="1025" height="596" alt="image" src="https://github.com/user-attachments/assets/aa672ad6-0e69-448f-a5e4-965b8c4cbc5e" />
+
+-------------
+
+🔷 Dans l'onglet database   
+
+
+<img width="624" height="819" alt="image" src="https://github.com/user-attachments/assets/ec8e8f38-7866-421e-b4c4-1936dce1b7bd" />
+<img width="627" height="817" alt="image" src="https://github.com/user-attachments/assets/b51f8415-154c-441f-a73f-f3f9171d147b" />
+<img width="621" height="820" alt="image" src="https://github.com/user-attachments/assets/f73309b4-411a-4eb3-8f3a-d4f102709ef0" />
+
+-------------
+
+🔷 Dans l'onglet immich-machine-learning   
+
+<img width="631" height="825" alt="image" src="https://github.com/user-attachments/assets/e698496d-f351-4585-92b1-ea391e9e8b7e" />
+<img width="629" height="819" alt="image" src="https://github.com/user-attachments/assets/ba9290b7-feda-4667-a591-59d97a015da4" />
+<img width="626" height="833" alt="image" src="https://github.com/user-attachments/assets/aee25d17-5c65-43cb-a2e1-90762c03961d" />
+
+
+-------------
+
+🔷 Dans l'onglet immich-server   
+
+<img width="625" height="824" alt="image" src="https://github.com/user-attachments/assets/99fae3c9-9d7d-43b1-8859-fadfc3a0afc0" />
+<img width="628" height="823" alt="image" src="https://github.com/user-attachments/assets/d4038cbf-88cd-4ce6-a31a-95ef6e519e6e" />
+<img width="623" height="824" alt="image" src="https://github.com/user-attachments/assets/82a085cb-14a3-4469-8520-62d4309faa11" />
+
+
+-------------
+
+🔷 Dans l'onglet redis  
+
+<img width="628" height="821" alt="image" src="https://github.com/user-attachments/assets/666e815c-9675-4cee-96e2-d3cc26a14793" />
+<img width="625" height="818" alt="image" src="https://github.com/user-attachments/assets/05020131-839e-48c3-a15f-b65806929441" />
+
+
 _____
 
 🟢 **Portainer dans l'App Store de CasaOS :**
@@ -156,3 +197,8 @@ Portainer est un puissant outil de gestion Docker. Dans toute l'interface Web, P
 
 <img width="958" height="679" alt="image" src="https://github.com/user-attachments/assets/d3059999-d9c3-446d-a046-17acdb8a2304" />
 
+_____
+🟢 **Duplicati dans l'App Store de CasaOS :**
+Duplicati est un logiciel de sauvegarde gratuit permettant de faire des sauvegardes.
+
+<img width="967" height="625" alt="image" src="https://github.com/user-attachments/assets/18383bce-bebd-4fd1-ad7d-b56544862e7d" />
