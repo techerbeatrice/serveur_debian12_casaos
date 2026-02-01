@@ -237,7 +237,7 @@ Duplicati est un logiciel de sauvegarde gratuit permettant de faire des sauvegar
 _____
 
 🟢 **WordPress dans l'App Store de CasaOS :**
-WordPress est un logiciel de sauvegarde gratuit permettant de créer et gérer différents types de sites Web.
+WordPress est un logiciel permettant de créer et gérer différents types de sites Web.
 
 <img width="1283" height="683" alt="image" src="https://github.com/user-attachments/assets/45cec863-b12b-465f-8542-07b1e6634c89" />
 
