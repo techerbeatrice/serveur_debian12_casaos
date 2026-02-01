@@ -3,7 +3,7 @@
 ________________
 
 
-# A) Prérequis :
+# 🔴 Prérequis
 
 PC avec debian 12
 
@@ -12,7 +12,7 @@ PC avec debian 12
 
 ____________________________________
 
-# B) Empêcher le serveur de se mettre en veille :
+# 🔴 Empêcher le serveur de se mettre en veille
 
 dans le terminal : 
 
@@ -54,7 +54,7 @@ si ça répond → victoire
 
 _____
 
-# C) Sécuriser le serveur :   
+# 🔴 Sécuriser le serveur   
 
 dans le terminal : 
 
@@ -113,7 +113,7 @@ cat ~/.ssh/id_ed25519.pub | ssh utilisateur@IP_SERVEUR "mkdir -p ~/.ssh && chmod
  
 _____
 
-# D) Installation de CasaOS (gestionnaire de serveur) :   
+# 🔴 Installation de CasaOS (gestionnaire de serveur)   
 
 télécharger CasaOS en ligne de commande :   
 ```
@@ -123,28 +123,36 @@ curl -fsSL https://get.casaos.io | sudo bash”
 
 _____
 
-# E) Télécharger des applications dans l'App Store de CasaOS :  
+# 🔴 Télécharger des applications dans l'App Store de CasaOS  
 
 
 <img width="1021" height="852" alt="image" src="https://github.com/user-attachments/assets/b27bc326-7a18-474a-b8b4-6f3bb0316ae3" />
 
 _____
 
-- **Nextcloud dans l'App Store de CasaOS :**
+🟢 **Nextcloud dans l'App Store de CasaOS :**
 Nextcloud est un logiciel libre de site d'hébergement de fichiers et une plateforme de travail collaboratif.   
 
 <img width="1014" height="857" alt="image" src="https://github.com/user-attachments/assets/77cc6433-93c0-4e7b-a7f8-7d88c8a47639" />
 
 _____
 
-- **Pi-hole dans l'App Store de CasaOS :**
+🟢 **Pi-hole dans l'App Store de CasaOS :**
 Pi-hole est un bloqueur de publicité au niveau du réseau qui agit comme un DNS menteur et éventuellement comme un serveur Dynamic Host Configuration Protocol, destiné à être utilisé sur un réseau privé.   
 
 <img width="1023" height="866" alt="image" src="https://github.com/user-attachments/assets/ec9c71d2-e7e2-4124-aad3-0146f4a14272" />
 
 _____
 
-- **Immich dans l'App Store de CasaOS :**
+🟢 **Immich dans l'App Store de CasaOS :**
 Immich, une alternative gratuite, open-source et auto-hébergé à Google Photos
 
 <img width="1015" height="852" alt="image" src="https://github.com/user-attachments/assets/82c68ce4-a1e6-40b5-9bc5-273137b05c4e" />
+
+_____
+
+🟢 **Portainer dans l'App Store de CasaOS :**
+Portainer est un puissant outil de gestion Docker. Dans toute l'interface Web, Portainer facilite la gestion des applications et des images Docker pour ceux qui ne sont pas familiarisés avec les commandes Docker, ce qui facilite son utilisation.
+
+<img width="958" height="679" alt="image" src="https://github.com/user-attachments/assets/d3059999-d9c3-446d-a046-17acdb8a2304" />
+
