@@ -176,7 +176,7 @@ Dans les paramètres :
 🔷 Dans l'onglet database   
 
 
-<img width="624" height="819" alt="image" src="https://github.com/user-attachments/assets/ec8e8f38-7866-421e-b4c4-1936dce1b7bd" />
+<img width="613" height="809" alt="image" src="https://github.com/user-attachments/assets/cfe2b76c-a8a1-4200-ae54-cf70ff1dfaac" />
 <img width="627" height="817" alt="image" src="https://github.com/user-attachments/assets/b51f8415-154c-441f-a73f-f3f9171d147b" />
 <img width="621" height="820" alt="image" src="https://github.com/user-attachments/assets/f73309b4-411a-4eb3-8f3a-d4f102709ef0" />
 
