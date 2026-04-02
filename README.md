@@ -15,7 +15,7 @@ ________________
 👉  Nginx Proxy Manager pour créer, gérer des hôtes virtuels, des redirections, des certificats SSL et des règles de sécurité pour leurs serveurs proxys : installation et paramétrage   
 👉  WordPress pour créer et gérer des sites Web : installation et paramétrage   
 👉  WatchTower pour les mises à jour automatiques : installation et paramétrage  
-Home-assistant pour rendre la  maison intelligente avec les appareils connectés : installation et paramétrage
+👉  Home-assistant pour rendre la  maison intelligente avec les appareils connectés : installation et paramétrage
 
 _______
 
