@@ -14,7 +14,8 @@ ________________
 👉  Jellyfin pour lire et partager des fichiers multimédias numériques : installation et paramétrage   
 👉  Nginx Proxy Manager pour créer, gérer des hôtes virtuels, des redirections, des certificats SSL et des règles de sécurité pour leurs serveurs proxys : installation et paramétrage   
 👉  WordPress pour créer et gérer des sites Web : installation et paramétrage   
-👉  WatchTower pour les mises à jour automatiques : installation et paramétrage   
+👉  WatchTower pour les mises à jour automatiques : installation et paramétrage  
+Home-assistant pour rendre la  maison intelligente avec les appareils connectés : installation et paramétrage
 
 _______
 
@@ -135,7 +136,8 @@ télécharger CasaOS en ligne de commande :
 ```
 curl -fsSL https://get.casaos.io | sudo bash”
 ``` 
-<img width="1100" height="920" alt="image" src="https://github.com/user-attachments/assets/6acfbdb3-a3c4-41ee-8908-fac3453d7d96" />
+<img width="1877" height="910" alt="image" src="https://github.com/user-attachments/assets/9f83bed3-b76a-41e1-8daa-2fe1ce4df3eb" />
+
 
 _____
 
