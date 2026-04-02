@@ -136,7 +136,8 @@ télécharger CasaOS en ligne de commande :
 ```
 curl -fsSL https://get.casaos.io | sudo bash”
 ``` 
-<img width="1877" height="910" alt="image" src="https://github.com/user-attachments/assets/9f83bed3-b76a-41e1-8daa-2fe1ce4df3eb" />
+<img width="1888" height="919" alt="image" src="https://github.com/user-attachments/assets/6d67805d-4a71-4ec5-8595-8b7f50d88b48" />
+
 
 
 _____
