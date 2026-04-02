@@ -243,3 +243,9 @@ WordPress est un logiciel permettant de créer et gérer différents types de si
 
 <img width="1283" height="683" alt="image" src="https://github.com/user-attachments/assets/45cec863-b12b-465f-8542-07b1e6634c89" />
 
+_____
+
+🟢 **Home Assistant dans l'App Store de CasaOS :**
+Home Assistant est un logiciel libre gratuit opérant comme un serveur central dans une installation domotique afin de contrôler divers appareils électriques, relever des grandeurs physiques ou des consommations électriques. Les appareils électriques connectés peuvent être pilotables via l'application mobile Home Assistant.   
+
+<img width="1899" height="913" alt="image" src="https://github.com/user-attachments/assets/a570e2ab-eff4-4460-9b4b-5d92fa72deb0" />
