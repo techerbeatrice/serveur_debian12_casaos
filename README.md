@@ -5,18 +5,18 @@ ________________
 
 👉  Transformer un pc debian 12 en serveur     
 👉  Installer CasaOs sur ce serveur        
-👉  Télécharger des applications via CasaOs     
-👉  Nextcloud pour héberger de fichiers et une plateforme de travail collaboratif : installation et paramétrage   
-👉  Pi-hole pour bloquer les pubs : installation et paramétrage   
-👉  Immich pour gérer et sauvegarder des photos en auto-hébergement : installation et paramétrage    
-👉  Portainer pour créer, modifier, redémarrer, surveiller… des conteneurs Docker : installation et paramétrage   
-👉  Duplicati pour faire des sauvegardes : installation et paramétrage   
-👉  Jellyfin pour lire et partager des fichiers multimédias numériques : installation et paramétrage   
-👉  Nginx Proxy Manager pour créer, gérer des hôtes virtuels, des redirections, des certificats SSL et des règles de sécurité pour leurs serveurs proxys : installation et paramétrage   
-👉  WordPress pour créer et gérer des sites Web : installation et paramétrage   
-👉  WatchTower pour les mises à jour automatiques : installation et paramétrage  
-👉  Home-assistant pour rendre la  maison intelligente avec les appareils connectés : installation et paramétrage
-
+👉  Télécharger des applications via CasaOs :      
+>👉  Nextcloud pour héberger de fichiers et une plateforme de travail collaboratif : installation et paramétrage   
+  👉  Pi-hole pour bloquer les pubs : installation et paramétrage   
+  👉  Immich pour gérer et sauvegarder des photos en auto-hébergement : installation et paramétrage    
+  👉  Portainer pour créer, modifier, redémarrer, surveiller… des conteneurs Docker : installation et paramétrage   
+  👉  Duplicati pour faire des sauvegardes : installation et paramétrage   
+  👉  Jellyfin pour lire et partager des fichiers multimédias numériques : installation et paramétrage   
+  👉  Nginx Proxy Manager pour créer, gérer des hôtes virtuels, des redirections, des certificats SSL et des règles de sécurité pour leurs serveurs proxys : installation et paramétrage   
+  👉  WordPress pour créer et gérer des sites Web : installation et paramétrage   
+  👉  WatchTower pour les mises à jour automatiques : installation et paramétrage  
+  👉  Home-assistant pour rendre la  maison intelligente avec les appareils connectés : installation et paramétrage   
+  👉  NetAlertX pour détecter les nouveaux appareils et permettre de surveiller l'activité des appareils sur un réseau : installation et paramétrage   
 _______
 
 
@@ -250,3 +250,19 @@ _____
 Home Assistant est un logiciel libre gratuit opérant comme un serveur central dans une installation domotique afin de contrôler divers appareils électriques, relever des grandeurs physiques ou des consommations électriques. Les appareils électriques connectés peuvent être pilotables via l'application mobile Home Assistant.   
 
 <img width="1899" height="913" alt="image" src="https://github.com/user-attachments/assets/a570e2ab-eff4-4460-9b4b-5d92fa72deb0" />
+
+______    
+🟢 **NetAlertX dans l'App Store de CasaOS :**
+Surveillez votre réseau avec NetAlertX et détectez les nouveaux appareils, permet de surveiller l'activité des appareils sur un réseau. Avec cette solution, vous pouvez savoir combien d'appareils sont connectés à votre réseau, quels sont les appareils détectés par NetAlertX et surtout recevoir une notification lorsqu'un nouvel appareil est détecté. Concrètement, la solution va cartographier votre réseau. 
+
+<img width="1038" height="866" alt="image" src="https://github.com/user-attachments/assets/e20e3b6b-2995-4ef7-bfc2-8dd1913127bf" />
+
+<img width="629" height="828" alt="image" src="https://github.com/user-attachments/assets/4d882871-6651-4069-a901-c8e6e9243fd7" />
+
+<img width="626" height="825" alt="image" src="https://github.com/user-attachments/assets/2b2d9fc8-1b10-4a43-8e11-2d5146305179" />
+
+<img width="633" height="825" alt="image" src="https://github.com/user-attachments/assets/5e1fde40-8891-4670-bac6-c62c4c79e46e" />
+
+
+<img width="1866" height="902" alt="image" src="https://github.com/user-attachments/assets/d2772cc1-c646-461b-a946-e7de550a661b" />
+
